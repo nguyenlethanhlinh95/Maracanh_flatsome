@@ -1,0 +1,35 @@
+/*
+Maracanh
+*/
+.maracanh_dress {
+  display: none; }
+
+.maracanh_toc li, .maracanh_dress li {
+  cursor: pointer; }
+
+.wapper_maracanh {
+  width: 120px;
+  height: auto;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.toc {
+  width: 120px;
+  height: 87px;
+  position: absolute;
+  top: 0;
+  z-index: 2;
+  background-image: none;
+  background-position: center center;
+  background-size: cover; }
+
+.trangphuc {
+  width: 200px;
+  height: 350px;
+  z-index: 1;
+  background-image: none;
+  background-position: center center; }
+
+/*# sourceMappingURL=mystyle_Tito2.css.map */
